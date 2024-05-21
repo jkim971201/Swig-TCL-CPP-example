@@ -1,0 +1,6 @@
+namespace swigTest
+{
+
+void test();
+
+}
